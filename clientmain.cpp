@@ -1,6 +1,5 @@
-// clientmain_restructured_cout.cpp
-// UDP binary client Lab1b — cout version, same output, different structure
-
+// clientmain.cpp
+// UDP binary client Lab1b -
 #include <iostream>
 #include <iomanip>
 #include <cstdlib>
